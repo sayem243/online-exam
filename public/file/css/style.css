@@ -1,0 +1,38 @@
+.main-pageBackground{
+    /*background-image: url("../../images/device.png");*/
+    /*background-image:url({{url('../../images/device.png')}});*/
+    /*background: url("../../images/device.png");*/
+   /*background-image: url ({{url :: asset ('images/bg-menu.png');}});*/
+
+
+/*background-image: url("../../images/device.png");*/
+
+    background-size: cover;
+    position: relative;
+    /*width: 100%;*/
+}
+.main-background{
+    /*background-image: url("../../images/device.png");*/
+    /*height: 100%;*/
+    /*width: 100%;*/
+    /*background-size: cover;*/
+    /*background-position: ;*/
+
+}
+
+.btn.btn-primary.teacher{
+
+    width: 100px;
+}
+.btn.btn-success.quize{
+    border-radius: 50px;
+}
+.col-md-4.start-quize{
+
+    margin-top: 20%;
+}
+
+.col-md-4.main-button{
+    position: absolute;
+
+}
